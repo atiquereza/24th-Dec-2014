@@ -1,0 +1,5 @@
+J:\24 dec 2014 Prac\CircleConsole\CircleConsole\bin\Debug\CircleConsole.exe.config
+J:\24 dec 2014 Prac\CircleConsole\CircleConsole\bin\Debug\CircleConsole.exe
+J:\24 dec 2014 Prac\CircleConsole\CircleConsole\bin\Debug\CircleConsole.pdb
+J:\24 dec 2014 Prac\CircleConsole\CircleConsole\obj\Debug\CircleConsole.exe
+J:\24 dec 2014 Prac\CircleConsole\CircleConsole\obj\Debug\CircleConsole.pdb
